@@ -1,0 +1,4 @@
+baseURL = 'https://clmcnabb.github.io'
+languageCode = 'en-us'
+title = 'Colin McNabb'
+theme = 'ananke'
